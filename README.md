@@ -1,2 +1,0 @@
-# ModelerReactApp
-Created with CodeSandbox
